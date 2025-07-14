@@ -1,13 +1,14 @@
-text: test 안녕하세요 (isi text kamu)
-Link Movie: 🔗 https://google.com
+text: test 안녕하세요 (Stream Donghua)
+Link Movie: 🔗 https://donghua.info
 
 
 media: (isi hanya url/link gambar, contoh: https://google.com/gambar1.jpg)
 url: (boleh di kosongin)
 hashtags: #film #movie #lk21 #film21
 ---
-text: test 안녕하세요 (isi text kamu)
-Link Movie: 🔗 https://google.com
+text: test 안녕하세요 (Stream Donghua)
+Link Movie: 🔗 https://donghua.info
+
 
 
 media: (isi hanya url/link gambar, contoh: https://google.com/gambar1.jpg)
